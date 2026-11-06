@@ -1,0 +1,3 @@
+Q1: when the container gets deleted, the file is also deleted as there is no persistant storage assigned to it
+Q2: it has no published port as that would require me openning a port on my laptops firewall to allow for connecting to it and I would only be able to connect when my laptop is online. there is also no website for it to corespond to
+Q3: an image is the iso file that contains all the code needed to run the application while a container is the live instance that runs the code from the image
